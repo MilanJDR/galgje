@@ -1,4 +1,4 @@
-# Galgje
+# Galgje 4 letters
 
 ## Te raden woord
 
