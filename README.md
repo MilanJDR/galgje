@@ -10,4 +10,4 @@
 ![gallow](./images/3.png)
 
 ## Beurten
-b, a, i
+b, a, i, l
